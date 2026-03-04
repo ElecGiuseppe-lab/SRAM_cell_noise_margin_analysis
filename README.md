@@ -1,1 +1,1 @@
-# SRAM_cell_noise_margin_analysis
+# Noise Margin Analysis of an SRAM Cell
